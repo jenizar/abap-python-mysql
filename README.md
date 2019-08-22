@@ -7,7 +7,7 @@ Run program :
 
 1. xampp_start (start mysql db)
 
-2. python app.py (http://<hostname>:<port>/some_path)
+2. python app.py (http://127.0.0.1:5000/)
 
 Test @Postman :
 
